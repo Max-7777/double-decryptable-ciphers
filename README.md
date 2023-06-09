@@ -8,7 +8,7 @@ Basically finding words that make sentences like:
 '_bin bug, hi won_'
 
 Which looks like a normal sentence with normal words, but it holds a secret message.
-When decryted with a shift of 20 it yields:
+When decrypted with a shift of 20 it yields:
 '_hot ham, no cut_'
 The original sentence didn't look like it was a secret/encrypted message but it was. A sort of disguised encryption. 
 
