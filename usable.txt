@@ -1,0 +1,44 @@
+shift 1:
+hm -> in
+
+shift 3:
+cold -> frog
+pelt -> show
+
+shift 5:
+lawn -> pear
+do -> it
+
+shift 11:
+its -> ted
+spits -> dated
+
+shift 12:
+for -> rad
+
+shift 20:
+(dec -> enc)
+ingot -> chain
+layout -> fusion
+cozy -> wits
+curl -> wolf
+curly -> wolfs
+cut -> won
+ham -> bug
+hot -> bin
+lugs -> foam
+mat -> gun
+no -> hi
+
+shift 25:
+gps -> for
+
+sentences:
+
+shift: 20
+bin bug, hi won
+hot ham, no cut
+
+shift 20
+hi, wolf won foam gun
+no, curl cut lugs mat
