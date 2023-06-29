@@ -1,5 +1,6 @@
 # double-decryptable-ciphers
-Program that looks for English words that decrypt/encrypt (caesar cipher) to other English words
+Program that looks for English words that decrypt/encrypt (caesar cipher) to other English words.
+Open in ide
 
 GOAL
 The goal of this program was to find english words that encrypt/decrypt to other english words. Results.txt holds all english words that encrypt & decrypt to another english word based on word_list.txt. usable.txt is some words I've collected that are the most usable for messages. The load function on line 36 of Main.java goes through all words in word_list.txt and decrypts/encrypts them with shifts 1-25, brute-force checking if any words decrypt/encrypt with any shift to another word, if so write that word in results.txt.
