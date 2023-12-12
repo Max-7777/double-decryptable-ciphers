@@ -1,5 +1,5 @@
 # double-decryptable-ciphers
-Program that looks for English words that decrypt/encrypt to other English words. Open in an IDE.
+Program that looks for English words that decrypt/encrypt to other English words. Open in an IDE. Run Main.java.
 
 ![](caesar.jpg)
 
