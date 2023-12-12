@@ -50,7 +50,7 @@ Which first decrypts to reveal:
 
 <br>
 
-Which doesn't really make any sense. In reality you must decrypt the sentence once more in order to reach the final secret message! Which once again is:
+But it doesn't really make any sense. You actually have to decrypt the sentence once more in order to reach the final secret message! Which once again is:
 
 <br>
 
