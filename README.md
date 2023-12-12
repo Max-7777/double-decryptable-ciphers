@@ -10,7 +10,7 @@ The goal of this program is to find english words that encrypt/decrypt to other 
 There are some text files and code. The text file named "results.txt" is the final output of the program. It holds all the special english words that encrypt/decrypt to other english words. If you want to see the double decryptable words the program found then look in there. The text file "word_list.txt" is a database of all the english words that were tested. (In total 370,100 words) (btw the last word in the database is "zwitterionic" which is defined as "a mostly nuetral ion possessing both positive and negative electrical charges.") Also "usable.txt" is some words from "results.txt" I've collected that are the most usable for making full messages/sentences with. Look there to see common english words.
 
 # How
-The load function on line 36 of "Main.java" goes through all words in "word_list.txt" (the word database) and decrypts/encrypts them with shifts 1-25, basically brute-force checking to see if any word decrypts/encrypts to any other word. If so write down that word in "results.txt."
+The load function on line 36 of "Main.java" goes through all words in "word_list.txt" (the word database) and decrypts/encrypts them with shifts 1-25. Basically brute-force checking to see if any word decrypts/encrypts to any other word. If so it writes down that word in "results.txt."
 
 # Example
 Basically finding words that can make a sentence like:
