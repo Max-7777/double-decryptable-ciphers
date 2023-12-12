@@ -30,7 +30,7 @@ When decrypted with a shift of 20 it yields:
 
 <br>
 
-The original sentence didn't look like it was an encrypted message hiding a secret but it was. It's kind of like hiding in plain sight. Hiding the secret message in a seemingly normal, unencrypted sentence. 
+The original sentence didn't look like it was an encrypted message but it was. It's kind of like hiding in plain sight. Hiding the secret message in a seemingly normal, unencrypted sentence. 
 
 <br>
 
